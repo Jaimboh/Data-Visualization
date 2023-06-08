@@ -1,2 +1,2 @@
 # Data-Visualization
-This is a repository of a data analysis and visualization project.
+This is a repository of a data analysis and visualization projects.
