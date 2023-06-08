@@ -2,4 +2,4 @@
 This is a repository of a data analysis and visualization projects.
 
 
-![Data analysis Diagram](./docs/udmey.png)
+![Data analysis Diagram](./docs/udemy.png)
